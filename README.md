@@ -1,2 +1,2 @@
 # Aspect-Based-Sentiment-Analysis
-Classifies a statement as positive or negative based on the aspect in the sentence
+Classifies a review or a statement as a positive or a negative review/statement based on the aspects hidden in the sentence
